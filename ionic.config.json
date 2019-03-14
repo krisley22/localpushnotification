@@ -1,0 +1,7 @@
+{
+  "name": "localPushNotification",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
